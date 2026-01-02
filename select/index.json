@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "To unseal",
+  "base_artist": "立花響×立花響[Another] (CV:悠木碧)",
+  "createdAt": "2026-01-02T10:23:11.484071Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To unseal",
+      "artist": "立花響×立花響[Another] (悠木碧)",
+      "has_synced": false,
+      "path": "select/pl_01_To_unseal_立花響×立花響[Another]_(悠木碧).txt"
+    }
+  ]
+}
